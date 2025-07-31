@@ -10,7 +10,7 @@
 
 <br />
 <div align="center">
-    🎓 I'm currently studying at <strong>Florida International University: B.A in Computer Science(GPA: 3.5/4.0)</strong><br /><br />
+    🎓 I'm currently studying at <strong>Florida International University: B.A in Computer Science </strong><br /><br />
     🌱 I'm actively learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
     📚 I'm experienced in <strong> Java, JavaScript, React, Next.js, Tailwind, HTML/CSS</strong></br /><br />
 </div>
