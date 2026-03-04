@@ -4,15 +4,15 @@
    </a>
 </h1>
 
-<h1 align="center" margin-bottom:'10px'>Software Engineer</h1>
+<h1 align="center" margin-bottom:'10px'>Cybersecurity</h1>
 
 <br />
 
 <br />
 <div align="center">
-    🎓 I'm currently studying at <strong>Florida International University: B.A in Computer Science </strong><br /><br />
-    🌱 I'm actively learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
-    📚 I'm experienced in <strong> Java, JavaScript, React, Next.js, Tailwind, HTML/CSS</strong></br /><br />
+    🎓 I'm currently studying at <strong>Florida International University: B.A in Computer Science, Certificate in Cybersecurity</strong><br /><br />
+    🌱 I'm actively learning <strong>SIEM, Networking, Risk assesment, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
+    📚 I'm experienced in <strong> Java, JavaScript, Python, PostgreSQL</strong></br /><br />
 </div>
 
 <br />
